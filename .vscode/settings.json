@@ -1,6 +1,10 @@
 {
     "java.project.sourcePaths": [
         "hamon1/Java/dp",
-        "hamon1\\Java\\Sorting"
+        "hamon1\\Java\\Sorting",
+        "hamon1\\Java\\Stack",
+        "hamon1\\Java\\Queue",
+        "hamon1\\Java\\Deck",
+        "hamon1\\Java\\Strings"
     ]
 }
